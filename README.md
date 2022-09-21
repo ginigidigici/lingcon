@@ -1,0 +1,2 @@
+# lingcon.id
+static website
